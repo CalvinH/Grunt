@@ -1,0 +1,25 @@
+{
+  "name": "resize-images",
+  "version": "0.0.1",
+  "description": "Resize a folder of images to large, medium, small and thumbnail sizes. Then batch optimize the whole set.",
+  "keywords": [
+    "resize",
+    "optimize",
+    "responsive"
+  ],
+  "author": {
+    "name": "Calvin Harris",
+    "email": "calvinh@kidney.org",
+    "url": "https://github.com/CalvinH"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CalvinH/Grunt/resize-images"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-imagemin": "~0.5.0",
+    "grunt-responsive-images": "~0.1.1",
+    "grunt-rename": "~0.1.3"
+  }
+}

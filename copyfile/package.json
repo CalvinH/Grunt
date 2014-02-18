@@ -1,0 +1,22 @@
+{
+  "name": "copyfile",
+  "version": "0.0.1",
+  "description": "Copy a file and rename it.",
+  "keywords": [
+    "copy",
+    "rename"
+  ],
+  "author": {
+    "name": "Calvin Harris",
+    "email": "calvinh@kidney.org",
+    "url": "https://github.com/CalvinH"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CalvinH/Grunt/copy_file"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}

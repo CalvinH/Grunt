@@ -1,0 +1,23 @@
+{
+  "name": "CopyPart",
+  "version": "0.0.1",
+  "description": "copy part of a file.",
+  "keywords": [
+    "copy",
+    "file",
+    "rename"
+  ],
+  "author": {
+    "name": "Calvin Harris",
+    "email": "calvinh@kidney.org",
+    "url": "https://github.com/CalvinH"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CalvinH/Grunt/copypart"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-copy-part-of-file": "~0.1.1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "rename",
+  "version": "0.0.1",
+  "description": "rename or move files and folders",
+  "keywords": [
+    "rename",
+    "move",
+    "responsive"
+  ],
+  "author": {
+    "name": "Calvin Harris",
+    "email": "calvinh@kidney.org",
+    "url": "https://github.com/CalvinH"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CalvinH/Grunt/rename"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-rename": "~0.1.3"
+  }
+}
